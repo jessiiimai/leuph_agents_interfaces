@@ -11,7 +11,7 @@ and create a new folder, where you will add both Python scripts from this
 project: leuphana_pixelart.py and leuphana_pixelcolors.py. If you now
 run the leuphana_pixelart Python Script, the turtle should draw this: 
 
-![](../../../pixelart_result.png)
+![pixelart_result](https://github.com/jessiiimai/leuph_agents_interfaces/assets/136825243/2281ce91-43cf-46e4-9b25-24593ccae7c4)
 
 In the following, I will explain what both scripts contain in detail.
 
