@@ -3,6 +3,7 @@
 This project contains: 
 - the code for a specific pixelart design called leuphana_pixelart
 - a script where the colors for each row are saved separately called leuphana_pixelcolors
+- a report pdf to this project
 
 ## To start:
 
