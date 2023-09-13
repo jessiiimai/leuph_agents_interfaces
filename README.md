@@ -88,8 +88,8 @@ returns the colors for our rows.
 ```python
 color_matrix = get_matrix()[::-1]
 ```
-Last but not least, we let our Turtle iterate through each list to create a
-row out of every color in each list.
+Last but not least, we let our Turtle iterate through each list inside
+the matrix to create a row out of every color in each list.
 
 ```python
 # l stands for each list in the matrix, c stands for each color in each list.
