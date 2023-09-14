@@ -7,9 +7,9 @@ This project contains:
 
 ## To start:
 
-Open PyCharm, activate a virtual environment in your PyCharm terminal
-and create a new folder, where you will add both Python scripts from this 
-project: leuphana_pixelart.py and leuphana_pixelcolors.py. If you now
+Open PyCharm, activate a virtual environment in your PyCharm terminal and install Tkinter.
+Next, create a new folder, where you will add both Python scripts from this 
+project: leuphana_pixelart.py and leuphana_pixelcolors.py. Or clone this repository. If you now
 run the leuphana_pixelart Python Script, the turtle should draw this: 
 
 ![pixelart_result](https://github.com/jessiiimai/leuph_agents_interfaces/assets/136825243/2281ce91-43cf-46e4-9b25-24593ccae7c4)
